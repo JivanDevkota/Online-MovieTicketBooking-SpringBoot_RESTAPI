@@ -48,7 +48,7 @@ public class MovieShow {
             movieShowDto.setDirector(movie.getDirector());
         }
 
-        if (screen!=null){
+        if (screen != null) {
             movieShowDto.setScreenId(screen.getId());
             movieShowDto.setScreenName(screen.getName());
             movieShowDto.setTheaterName(screen.getTheater().getName());

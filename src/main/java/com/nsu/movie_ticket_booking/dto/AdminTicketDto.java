@@ -20,4 +20,7 @@ public class AdminTicketDto {
     private LocalDate showDate;
     private LocalTime startTime;
     private String ticketStatus;
+
 }
+
+

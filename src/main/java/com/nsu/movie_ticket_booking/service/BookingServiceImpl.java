@@ -28,6 +28,7 @@ public class BookingServiceImpl implements BookingService{
     @Autowired
     private MovieShowRepository movieShowRepository;
 
+
     @Autowired
     private SeatRepository seatRepository;
 
